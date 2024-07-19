@@ -1,0 +1,2 @@
+# book
+Книга по lsFusuon
