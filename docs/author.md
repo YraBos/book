@@ -23,5 +23,4 @@ title: 'От автора'
 Юрий Бозененков  
 Разработчик на платформе lsFusion
 
-
-<a href="../static/source/education.backup" download="desired_filename.backup">Скачать файл</a>
+[Скачать файл](../static/source/education.backup) 
